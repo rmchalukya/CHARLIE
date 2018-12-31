@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "charlie_jwtPrivateKey"
+    "jwtPrivateKey": "charlie_jwtPrivateKey",
+    "db": "charlie_db"
 }
